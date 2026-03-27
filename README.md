@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryvn-dev
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning GDScript & Javascript for work
+- 🌱 I’m currently learning GDScript & Javascript 
 - 💞️ I’m looking to collaborate on game development and learning. I'm building my game on Godot but I don't think I'm quite ready to share.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
